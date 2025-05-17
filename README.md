@@ -18,4 +18,4 @@ Through this Power BI driven anaysis, Adidas aims to empower its decision makers
 - Excel
 - Power BI
 
-- 
+  
